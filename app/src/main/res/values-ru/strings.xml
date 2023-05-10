@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Victoria Zodiac</string>
+    <string name="main_text">Введите день и месяц, чтобы узнать знак зодиака</string>
+    <string name="capricorn_text">Козерог</string>
+    <string name="aquarius_text">Водолей</string>
+    <string name="pisces_text">Рыбы</string>
+    <string name="aries_text">Овен</string>
+    <string name="taurus_text">Телец</string>
+    <string name="gemini_text">Близнецы</string>
+    <string name="cancer_text">Рак</string>
+    <string name="leo_text">Лев</string>
+    <string name="virgo_text">Дева</string>
+    <string name="libra_text">Весы</string>
+    <string name="scorpio_text">Скорпион</string>
+    <string name="sagittarius_text">Стрелец</string>
+    <string name="unknown_sign_text">Нет зодиака:( </string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Victoria Zodiac</string>
+    <string name="main_text">Enter the day and month to know your zodiac sign</string>
+    <string name="capricorn_text">Capricorn</string>
+    <string name="aquarius_text">Aquarius</string>
+    <string name="pisces_text">Pisces</string>
+    <string name="aries_text">Aries</string>
+    <string name="taurus_text">Taurus</string>
+    <string name="gemini_text">Gemini</string>
+    <string name="cancer_text">Cancer</string>
+    <string name="leo_text">Leo</string>
+    <string name="virgo_text">Virgo</string>
+    <string name="libra_text">Libra</string>
+    <string name="scorpio_text">Scorpio</string>
+    <string name="sagittarius_text">Sagittarius</string>
+    <string name="unknown_sign_text">Unknown zodiac sign</string>
+</resources>
